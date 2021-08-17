@@ -19,7 +19,6 @@
         android:id="@+id/TextView"
         android:text="vvfvfkvfv"
         android:paddingLeft="4dp"
-
         android:textSize="18sp"
         android:layout_toRightOf="@id/imageview"
         android:layout_centerVertical="true"
